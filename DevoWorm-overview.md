@@ -32,7 +32,8 @@ R-DP                                             | [Dynamical Heterochrony](http
 ## Repos in DevoWorm Github
 
 Repo Name                                                                       | Description               
----                                                                             | ---                       
+---                                                                             | ---             
+[DevoWorm](https://github.com/devoworm/DevoWorm)                                | Basic Secondary _C. elegans_ Embryogenetic Data
 [Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software (GSoC 2017)
 [Devlopmental XML and Networks](https://github.com/devoworm/GSoC-2018)          | Developmental XML and Networks (GSoC 2018)
 [Semantic Phenotypes](https://github.com/devoworm/GSOC-2019)                    | Semantic Phenotypes (GSoC 2019)
@@ -49,4 +50,12 @@ Repo Name                                                                       
 [_n_-D Visualization](https://github.com/devoworm/nD-visualization)             | n-D Visualization
 [Drosophila Imaginal Disc Segmentation](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)|Drosophila Imaginal Disc Segmentation
 [Drosophila Embryo (fused cell centroids)](https://github.com/devoworm/Drosophila-embryo-fused-cell-centroids)|Drosophila Embryo (fused cell centroids)
-[Digital Bacillaria](https://github.com/devoworm/Digital-Bacillaria)            | Quantifying Movies of Bacillaria (Diatom)   
+[Digital _Bacillaria_](https://github.com/devoworm/Digital-Bacillaria)            | Quantifying _Bacillaria_ (Diatom) Phenotypes  
+[Mouse Embryo (Zygote to Blastocyst)](https://github.com/devoworm/Mouse-Embryo-Zygote-to-Blastocyst) | Data from Early Mouse Embryo
+[DW-ML](https://github.com/devoworm/DW-ML) | DevoWormML (interest area for applied Machine Learning)
+[AoDT](https://github.com/devoworm/AoDT) | Analysis of Developmental Trees  
+[Compositionality](https://github.com/devoworm/Compositionality) | Compositionality and Category Theory as Applied to Development
+[Macro-Mechanisms for Embryogenesis](https://github.com/devoworm/Macro-mechanisms-for-Embryogenesis) | Collective Mechanisms of Morphogenesis in Embryos
+[Experimental Evolution](https://github.com/devoworm/Experimental-Evolution) | Experimental Evolution in _C. elegans_
+[Triangular State Machines - TSM](https://github.com/devoworm/Triangular-State-Machines-TSM) | Theoretical Gene Expression Network Motifs
+[Theoretical-Types-of-Embryo-Developmental-Networks](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks) | Graph Theory as Applied to Development
