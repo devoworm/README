@@ -5,7 +5,7 @@ educational, academic, media-related and collaborative opportunities associated 
 
 ## Roadmap
 
-DevoWorm is currently divided into three loosely-knit interest areas: developmental dynamics, cybernetics and digital morphogenesis, and reproduction and developmental plasticity. While our main interest is in the nematode *Caenorhabditis elegans*, we are also interested in cross-species comparative work.
+DevoWorm is currently divided into three loosely-knit interest areas: developmental dynamics, cybernetics and digital morphogenesis, and reproduction and developmental plasticity. While our main interest is in the nematode *Caenorhabditis elegans*, we are also interested in cross-species comparative work. We also have three additional types of initiative which cross-cut the interest areas: theory-building, education, and open science. These initiatives are infused into our interest areas.  
 
 **Developmental Dynamics** currently involves using secondary data collected from embryos along with bioinformatic and data science techniques to answer questions regarding the process of early embryogenesis and the timing of later morphogenesis. To address these problems, we have used number of innovative approaches. 
 
