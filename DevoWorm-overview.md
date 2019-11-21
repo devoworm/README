@@ -59,3 +59,5 @@ Repo Name                                                                       
 [Experimental Evolution](https://github.com/devoworm/Experimental-Evolution) | Experimental Evolution in _C. elegans_
 [Triangular State Machines - TSM](https://github.com/devoworm/Triangular-State-Machines-TSM) | Theoretical Gene Expression Network Motifs
 [Theoretical-Types-of-Embryo-Developmental-Networks](https://github.com/devoworm/Theoretical-Types-of-Embryo-Developmental-Networks) | Graph Theory as Applied to Development
+[Raising the Worm Brain](https://github.com/devoworm/Raising-the-Worm-Brain) | Functional Developmental Connectomes
+[Emergent Behavior](https://github.com/devoworm/Emergent-Behavior) | Behavioral Emergence in Development
