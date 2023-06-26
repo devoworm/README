@@ -16,6 +16,7 @@ DevoWorm is currently divided into three loosely-knit interest areas: developmen
 Objective                                        | Examples                    
 ---                                              | ---
 Developmental Dynamics (DD)                      | 
+DD                                               | [Data-theoretical Synthesis](https://rdcu.be/cdFwi)
 DD                                               | [Comparative Quantitative Embryogenesis](http://www.mdpi.com/2079-7737/5/3/33)
 DD                                               | [Differentiation Trees and Maps](http://www.biorxiv.org/content/early/2016/07/07/062539)
 DD                                               | [Embryo Networks and Developmental Connectomes](https://doi.org/10.1101/146035)
@@ -24,6 +25,10 @@ Cybernetics and Digital Morphogenesis (C-DM)     |
 C-DM                                             | [Morphozoic (Cellular Automata)](https://www.researchgate.net/publication/311738597_Morphozoic_Cellular_Automata_with_Nested_Neighborhoods_as_a_Metamorphic_Representation_of_Morphogenesis)
 C-DM                                             | [Multicell Systems](https://github.com/Orthogonal-Research-Lab/origins-embryo/tree/master/Multicell%20Systems)
 C-DM                                             | [Braitenberg's Vehicles and Games](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub)
+C-DM                                             | [Diatom Bio- and Psychophysics](https://onlinelibrary.wiley.com/doi/10.1002/9781119751939.ch9)
+Developmental Data Science and DevoWorm ML (DDS-DWML) |
+DDS-DWML                                         | [DevoLearn](https://github.com/devolearn)
+DDS-DWML                                         | [
 Reproduction and Developmental Plasticity (R-DP) | 
 R-DP                                             | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
 R-DP                                             | [Life-history Plasticity](http://www.biorxiv.org/content/early/2016/03/24/045609)
