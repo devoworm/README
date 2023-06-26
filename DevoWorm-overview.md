@@ -16,7 +16,6 @@ DevoWorm is currently divided into three loosely-knit interest areas: developmen
 Objective                                        | Examples                    
 ---                                              | ---
 Developmental Dynamics (DD)                      | 
-DD                                               | [Data-theoretical Synthesis](https://rdcu.be/cdFwi)
 DD                                               | [Comparative Quantitative Embryogenesis](http://www.mdpi.com/2079-7737/5/3/33)
 DD                                               | [Differentiation Trees and Maps](http://www.biorxiv.org/content/early/2016/07/07/062539)
 DD                                               | [Embryo Networks and Developmental Connectomes](https://doi.org/10.1101/146035)
@@ -28,7 +27,7 @@ C-DM                                             | [Braitenberg's Vehicles and G
 C-DM                                             | [Diatom Bio- and Psychophysics](https://onlinelibrary.wiley.com/doi/10.1002/9781119751939.ch9)
 Developmental Data Science and DevoWorm ML (DDS-DWML) |
 DDS-DWML                                         | [DevoLearn](https://github.com/devolearn)
-DDS-DWML                                         | [
+DDS-DWML                                         | [Data-theoretical Synthesis](https://rdcu.be/cdFwi)
 Reproduction and Developmental Plasticity (R-DP) | 
 R-DP                                             | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
 R-DP                                             | [Life-history Plasticity](http://www.biorxiv.org/content/early/2016/03/24/045609)
