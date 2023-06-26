@@ -5,11 +5,14 @@ educational, academic, media-related and collaborative opportunities associated 
 
 ## Roadmap
 
-DevoWorm is currently divided into three loosely-knit interest areas: developmental dynamics, cybernetics and digital morphogenesis, and reproduction and developmental plasticity. While our main interest is in the nematode *Caenorhabditis elegans*, we are also interested in cross-species comparative work. We also have three additional types of initiative which cross-cut the interest areas: theory-building, education, and open science. These initiatives are infused into our interest areas.  
+DevoWorm is currently divided into four loosely-knit interest areas: developmental dynamics, cybernetics and digital morphogenesis, developmental data science/DevoWormML, and reproduction and developmental plasticity. While our main interest is in the nematode *Caenorhabditis elegans*, we are also interested in cross-species comparative work. We also have three additional types of initiative which cross-cut the interest areas: theory-building, education, and open science. These initiatives are infused into our interest areas.  
 
-**Developmental Dynamics** currently involves using secondary data collected from embryos along with bioinformatic and data science techniques to answer questions regarding the process of early embryogenesis and the timing of later morphogenesis. To address these problems, we have used number of innovative approaches. 
+**Developmental Dynamics** involves using secondary data collected from embryos along with bioinformatic and data science techniques to answer questions regarding the process of early embryogenesis and the timing of later morphogenesis. To address these problems, we have used number of innovative approaches. 
 
 **Cybernetics and Digital Morphogenesis** has involved using platforms such as Morphozoic and theoretical approaches such as Multicell Systems and Toy Models to better understand physical interactions during embryogenesis and morphogenesis. We have also explored the use of cybernetic models and concepts to better understand the general process of embryogenesis.
+
+**Developmental Data Science and DevoWormML** this interest area involves two interrelated initiatives: data-theoretic synthesis and Machine Learning/Deep Learning for understanding biological development. 
+
 
 **Reproduction and Developmental Plasticity** involves utilizing an evo-devo approach to understand *Caenorhabditis elegans* more generally. Our existing datasets and papers include a focus on larval development and life-history processes. This area of the project also features primary empirical data, based on formal experimental design.
 
@@ -25,7 +28,7 @@ C-DM                                             | [Morphozoic (Cellular Automat
 C-DM                                             | [Multicell Systems](https://github.com/Orthogonal-Research-Lab/origins-embryo/tree/master/Multicell%20Systems)
 C-DM                                             | [Braitenberg's Vehicles and Games](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub)
 C-DM                                             | [Diatom Bio- and Psychophysics](https://onlinelibrary.wiley.com/doi/10.1002/9781119751939.ch9)
-Developmental Data Science and DevoWorm ML (DDS-DWML) |
+Developmental Data Science and DevoWormML (DDS-DWML) |
 DDS-DWML                                         | [DevoLearn](https://github.com/devolearn)
 DDS-DWML                                         | [Data-theoretical Synthesis](https://rdcu.be/cdFwi)
 Reproduction and Developmental Plasticity (R-DP) | 
